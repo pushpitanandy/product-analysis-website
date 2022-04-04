@@ -1,8 +1,20 @@
 .header {
-    margin: 20px;
+    margin: 30px;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .header .product-name {
     color: rgb(74, 15, 15);
+}
+
+.custom-links {
+    display: flex;
+}
+
+.custom-links a {
+    margin-left: 40px;
+    font-weight: 600;
+    font-size: 20px;
 }
