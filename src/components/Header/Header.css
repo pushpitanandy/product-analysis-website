@@ -1,0 +1,8 @@
+.header {
+    margin: 20px;
+    display: flex;
+}
+
+.header .product-name {
+    color: rgb(74, 15, 15);
+}
