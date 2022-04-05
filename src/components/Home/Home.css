@@ -27,12 +27,19 @@
     width: 85%;
 }
 
-.find-out-more-btn {
+.show-more-btn {
     margin: 20px;
     padding: 10px 50px;
     background-color: rgb(74, 15, 15);
     color: white;
     font-weight: bold;
+}
+
+.review-display {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 60px;
+    width: 100%;
 }
 
 .review-container h1 {
