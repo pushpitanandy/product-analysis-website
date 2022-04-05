@@ -1,10 +1,13 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
+import MyLineChart from '../MyLineChart/MyLineChart';
 import './Dashboard.css';
 
 const Dashboard = () => {
     return (
-        <div>
-            <h1>This is dashboard</h1>
+        <div className='dashboard-container'>
+            {
+                <MyLineChart></MyLineChart>
+            }
         </div>
     );
 };
