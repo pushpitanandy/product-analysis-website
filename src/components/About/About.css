@@ -1,0 +1,30 @@
+.about h1 {
+    color: rgb(74, 15, 15);
+    font-size: 80px;
+    margin-bottom: 20px;
+    font-weight: bolder;
+}
+
+.product-info {
+    display: flex;
+}
+
+.product-picture img {
+    width: 100%;
+}
+
+.product-detail {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.product-detail h2,
+h3 {
+    color: rgb(74, 15, 15);
+    margin-bottom: 20px;
+}
+
+.product-detail li {
+    justify-content: left;
+    font-size: 20px;
+}
