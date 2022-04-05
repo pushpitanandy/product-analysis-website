@@ -2,9 +2,11 @@ import React from 'react';
 import './Home.css';
 import { useNavigate } from 'react-router-dom';
 import ReviewCard from '../ReviewCard/ReviewCard';
+import useReviews from '../../hooks/useReviews';
 
 const Home = () => {
     const navigate = useNavigate();
+    const [reviews, setReviews] = useReviews();
     return (
         <div>
             <div className='home'>
@@ -18,7 +20,7 @@ const Home = () => {
                 </div>
             </div>
             <div className='review-container'>
-                <h1>Customer Review</h1>
+                <h1>Customer Reviews: </h1>
                 <ReviewCard></ReviewCard>
             </div>
         </div>

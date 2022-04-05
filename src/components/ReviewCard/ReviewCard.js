@@ -1,9 +1,14 @@
 import React from 'react';
+import './ReviewCard.css';
 
-const ReviewCard = () => {
+const ReviewCard = (props) => {
+    const { name, review, rating, image } = props.review;
     return (
-        <div>
-            <h2>This is a review card</h2>
+        <div className='review-card'>
+            <img src={image} alt="" />
+            <h4>{name}</h4>
+            <p><small>{rating}</small></p>
+            <p>{review}</p>
         </div>
     );
 };

@@ -1,0 +1,10 @@
+.review-card img {
+    width: 100px;
+}
+
+.review-card {
+    border: 1px solid darkred;
+    text-align: left;
+    padding: 20px;
+    width: 300px;
+}

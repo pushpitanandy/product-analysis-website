@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Mike",
+        "review": "Super easy to use. Super easy to clean. Small enough that it does not take up too much room.",
+        "rating": "5 out of 5",
+        "image": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?size=626&ext=jpg&uid=R64756003&ga=GA1.1.935776561.1645107871"
+    },
+    {
+        "id": 2,
+        "name": "Nikolina",
+        "review": "I had few coffee machines previously. Ever since I got this one, I love it! It is quite and really easy to maintain. Highly recommend this coffee machine",
+        "rating": "5 out of 5",
+        "image": "https://img.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_273609-7091.jpg?size=626&ext=jpg&uid=R64756003&ga=GA1.1.935776561.1645107871"
+    },
+    {
+        "id": 3,
+        "name": "Yash",
+        "review": "This machine makes perfect coffee everytime. My only (small) issue with this machine is that it is a bit loud.",
+        "rating": "4.5 out of 5",
+        "image": "https://img.freepik.com/free-photo/bohemian-man-with-his-arms-crossed_1368-3542.jpg?size=626&ext=jpg&uid=R64756003&ga=GA1.1.935776561.1645107871"
+    },
+    {
+        "id": 4,
+        "name": "Susan",
+        "review": "Love the machine. Very easy to use. Can control the level of froth the machine makes. Super easy to clean and takes little space. And makes great coffees. Cannot live without it.",
+        "rating": "5 out of 5",
+        "image": "https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?size=626&ext=jpg&uid=R64756003&ga=GA1.1.935776561.1645107871"
+    },
+    {
+        "id": 5,
+        "name": "Kaycee",
+        "review": "Saves me a lot of money that I previously had to spend on daily coffees. Very smooth process and high quality results, however frequently glitches and I have to do a factory reset.",
+        "rating": "4 out of 5",
+        "image": "https://img.freepik.com/free-photo/portrait-beautiful-young-woman-standing-grey-wall_231208-10760.jpg?size=626&ext=jpg&uid=R64756003&ga=GA1.1.935776561.1645107871"
+    },
+    {
+        "id": 6,
+        "name": "Shawn",
+        "review": "I am thoroughly impressed by this little machine and the gorgeous hot aromatic cups of coffee it effortlessly produces. So simple and easy to operate, even easier to clean.",
+        "rating": "5 out of 5",
+        "image": "https://img.freepik.com/free-photo/no-problem-concept-bearded-man-makes-okay-gesture-has-everything-control-all-fine-gesture-wears-spectacles-jumper-poses-against-pink-wall-says-i-got-this-guarantees-something_273609-42817.jpg?size=626&ext=jpg&uid=R64756003&ga=GA1.1.935776561.1645107871"
+    },
+    {
+        "id": 7,
+        "name": "Mary",
+        "review": "I love my new Nespresso coffee machine. I can make hot or cold frothed milk for freddo or hot cappucinos. Also very compact and sleek looking on my kitchen bench.",
+        "rating": "5 out of 5",
+        "image": "https://img.freepik.com/free-photo/thoughtful-smiling-lady-looking-up-holding-laptop-isolated_171337-6670.jpg?size=626&ext=jpg&uid=R64756003&ga=GA1.1.935776561.1645107871"
+    },
+    {
+        "id": 8,
+        "name": "Ronaldo",
+        "review": "Purchased one of these 6 or 7 years ago and probably made 6000+ great coffees with it. Had to purchase the same again and very happy with it from the start.",
+        "rating": "4.9 out of 5",
+        "image": "https://img.freepik.com/free-photo/portrait-african-american-man_23-2149072214.jpg?size=626&ext=jpg&uid=R64756003&ga=GA1.1.935776561.1645107871"
+    },
+    {
+        "id": 9,
+        "name": "Brent",
+        "review": "We are really happy with the coffee machine, always use the Nespresso coffee pods and always get a good coffee every morning with no complaints.",
+        "rating": "4.9 out of 5",
+        "image": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg&uid=R64756003&ga=GA1.1.935776561.1645107871"
+    }
+]
