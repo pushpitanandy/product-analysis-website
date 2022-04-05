@@ -34,3 +34,10 @@
     color: white;
     font-weight: bold;
 }
+
+.review-container h1 {
+    color: rgb(74, 15, 15);
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
