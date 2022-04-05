@@ -1,0 +1,21 @@
+.blogs {
+    display: flex;
+}
+
+.question-one {
+    background-color: rgb(180, 233, 180);
+    border: 2px solid darkgreen;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 20px;
+    width: 50%;
+}
+
+.question-two {
+    background-color: rgb(188, 188, 236);
+    border: 2px solid darkblue;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 20px;
+    width: 50%;
+}
